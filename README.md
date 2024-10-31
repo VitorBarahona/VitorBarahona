@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra saber mais sobre mim, pode me encontrar nas redes abaixo!
+### Pra saber mais sobre mim, pode me encontrar nas redes abaixo!!!
  
 <div> 
   <a href = "mailto:vitorbarahona@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
