@@ -137,13 +137,51 @@ Me chamo Vitor Dias da Costa Barahona, tenho 44 anos e sou natural do Rio de Jan
 
 ### 📊 Estatísticas
 
-<p>
+<div>
+    <a href="https://github.com/VitorBarahona">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=vitorbarahona&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbarahona&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</p>
+</div>
 
  <div>
    <a href="https://github.com/VitorBarahona">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorBarahona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBarahona&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorBarahona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBarahona&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br"/>
 </div>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    width="500"
+    src="https://github-readme-stats.vercel.app/api?username=vitorbarahona&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbarahona&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    width="500"
+    style="padding-right: 0px;"
+    src="https://github-readme-stats.vercel.app/api?username=vitorbarahona&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbarahona&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" 
+  />
+
+</p>
