@@ -137,7 +137,7 @@ Me chamo Vitor Dias da Costa Barahona, tenho 44 anos e sou natural do Rio de Jan
 
 ### 📊 Estatísticas
 
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -153,4 +153,4 @@ Me chamo Vitor Dias da Costa Barahona, tenho 44 anos e sou natural do Rio de Jan
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbarahona&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
